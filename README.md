@@ -1,5 +1,6 @@
 # Barrage
 
+# Discription
 弾幕はあなたがあなた自身の大きいフォントをカスタマイズすることを可能にするスクロール弾幕です。 あなたはコンサート、競技会場、集会、空港でのピックアップなど、Callソフトウェアに最適でこのアプリを使用することができます、そしてこのソフトウェアは日本人ユーザーにより適したサポートを提供するように設計されています。
 
 ・大きなフォント設定 - 大きなフォントを設定できます
@@ -32,4 +33,5 @@ Barrage is a scrolling barrage that allows you to customize your own large fonts
 · Barrage voice playback - Barrage content can be read out in the form of voice
 · The contents of the barrage are saved by themselves - convenient for future use
 
-Contact: dingzs02217@163.com
+# Contact:
+dingzs02217@163.com
